@@ -1,0 +1,10 @@
+.pageHeader {
+    padding: 5px 10px;
+    border-bottom: 2px solid black;
+}
+
+.pageTitle {
+    margin: 0;
+    font-weight: 300;
+    font-size: 1.8rem;
+}
